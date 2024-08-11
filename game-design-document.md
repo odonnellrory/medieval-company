@@ -47,25 +47,51 @@ Fans of co-op action games, rogue likes, medieval fantasy, and first person acti
 
 ## 3. Game Elements
 ### 3.1 Enemy Types
-[To be expanded]
+- Skeleton
+- Goblin
+- Dragon
 
 ### 3.2 Weapons
-[To be expanded]
+- Sword
+- Bow
+- Magic
+- THE ROPE
 
 ### 3.3 Potions
-[To be expanded]
+- Regenerative:  Recover status bars like health, stamina and mana.
+- Buffs:  Temporary short lived but powerful buffs like a speed boost or damage increase.
+- Thrown Offensive potions??
+- Throw potions to splash them onto other players like Minecraft but be careful as they can affect enemies too!
 
 ### 3.4 Spells
-[To be expanded]
+- Fire spells
+- Healing spells
+- Ranged revive
+- AoE?
+- Spells for laying traps or creating environmental hazards such as a fire wall or a hex on the ground to act like a landmine
 
 ### 3.5 Power-ups
-[To be expanded]
+- Food can work like Valheim, increasing max health, stamina, or mana.  
+- These buffs have countdowns that will consider the length of the day night cycle and average trip length into a dungeon.  
+- Players can put a limited amount of food onto the carriage to take with them into the level.
+- Armour will also provide significant non-time based bonuses similar to food.
 
 ### 3.6 Level Types
-[To be expanded]
+- Forest
+- Mountains
+- Desert
+- Plains
+- Volcano
+- Ice
+- Dark forest
 
-### 3.7 Areas
-[To be expanded]
+### 3.7 Dungeon Types
+- Cave
+- Crypt
+- Mansion
+- Abandoned outpost
+- Mines
+- Ruined City
 
 ## 4. Technical Specifications
 ### 4.1 Development Environment
@@ -139,10 +165,16 @@ Use mesh combining techniques for static elements to reduce draw calls
 
 ## 5. Art and Audio
 ### 5.1 Art Style
-[To be defined]
+- Low poly
+- Pixelated textures
+- Retro-esque
+- Valheim
+- The Legend of Zelda: Majora's Mask
+- Lethal Company
 
 ### 5.2 Sound Design
-[To be defined]
+- Can use free software like Audacity to edit recorded sounds
+- Make use of some royalty free SFX
 
 ### 5.3 Music
 [To be defined]
