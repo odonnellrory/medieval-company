@@ -48,8 +48,13 @@ Fans of co-op action games, rogue likes, medieval fantasy, and first person acti
 ## 3. Game Elements
 ### 3.1 Enemy Types
 - Skeleton
+     - Basic enemy.  Spawns out of the ground, can have either a sword or a bow.
 - Goblin
+     - Can be hogtied with THE ROPE and brought back to the carriage as treasure.  This will add the goblin to your team as a slave.  Slave goblins will take treasure from the dungeon entrance back to the carriage, allowing the player to continue exploring the dungeon.
+     - Maybe they can be commanded to follow and bodyguard? 
+     - Maybe slaves can have tiers moving up through Indentured Servant and becoming Employees.
 - Dragon
+    - Endgame dragons can be enslaved, they will circle around the map like an AC-130 and reign down fireballs on enemies trying to take your treasure.
 
 ### 3.2 Weapons
 - Sword
